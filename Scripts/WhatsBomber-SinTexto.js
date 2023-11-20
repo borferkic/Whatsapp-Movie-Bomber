@@ -20,7 +20,7 @@ async function StartBombing(scriptText){
 	
 	return lines.length;
 }
-//linea 25 gregar el guion de la pelicula//
+//Reemplazar el texto de la linea 26 por el dialogo o mensajes que desees enviar//
 enviarScript(`
 
 PONER ACA EL SCRIPT DE LA PELICULA
