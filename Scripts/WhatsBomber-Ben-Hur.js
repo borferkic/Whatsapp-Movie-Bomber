@@ -3676,5 +3676,5 @@ Even then.
 
 And I felt His voice take the sword out of my hand.
 
-`).then(e => console.log(`Bombardeo finalizado, ${e} mensajens enviados`)).catch(console.error)
+`).then(e => console.log(`Bombardeo finalizado, ${e} mensajes enviados`)).catch(console.error)
 //Fin del script

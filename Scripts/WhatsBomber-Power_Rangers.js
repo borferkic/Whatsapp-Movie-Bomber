@@ -2492,5 +2492,5 @@ Whoo, yeah!
 I am King Goldar, the
 ruler of the universe!
 
-`).then(e => console.log(`Bombardeo finalizado, ${e} mensajens enviados`)).catch(console.error)
+`).then(e => console.log(`Bombardeo finalizado, ${e} mensajes enviados`)).catch(console.error)
 //Fin del script

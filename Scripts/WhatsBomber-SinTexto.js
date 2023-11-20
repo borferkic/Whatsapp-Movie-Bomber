@@ -23,5 +23,5 @@ enviarScript(`
 
 PONER ACA EL SCRIPT DE LA PELICULA
 
-`).then(e => console.log(`Bombardeo finalizado, ${e} mensajens enviados`)).catch(console.error)
+`).then(e => console.log(`Bombardeo finalizado, ${e} mensajes enviados`)).catch(console.error)
 //Fin del script

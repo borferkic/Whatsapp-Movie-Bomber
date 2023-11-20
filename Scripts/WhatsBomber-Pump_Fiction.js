@@ -6555,5 +6555,5 @@ Then, to the amazement of the Patrons, the Waitresses, the Cooks, the Bus Boys, 
 
 FADE OUT THE END
 
-`).then(e => console.log(`Bombardeo finalizado, ${e} mensajens enviados`)).catch(console.error)
+`).then(e => console.log(`Bombardeo finalizado, ${e} mensajes enviados`)).catch(console.error)
 //Fin del script

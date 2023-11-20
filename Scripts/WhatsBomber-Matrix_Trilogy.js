@@ -1891,11 +1891,15 @@ Merovingian: Yes, of course, who has time? Who has time? But then if we do not e
 Morpheus: You know why we are here.
 Merovingian: Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?
 Morpheus: We are looking for the Keymaker.
-Merovingian: Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?
+Merovingian: Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?
 Neo: You know the answer to that question.
 Merovingian: But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth: causality. Action. Reaction. Cause and effect.
 Morpheus: Everything begins with choice.
-Merovingian: No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message: Her time is almost up. Now I have some real business to do, I will say adieu and goodbye.
+Merovingian: No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the 
+why.’ 
+Why’ is what separates us from them, you from me. 
+Why’ is the only real social power, without it you are powerless. And this is how you come to me, without 
+why, without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message: Her time is almost up. Now I have some real business to do, I will say adieu and goodbye.
 Neo: This isn’t over.
 Merovingian: Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all.
 Persephone: Where are you going?
@@ -2188,7 +2192,7 @@ Neo: You haven’t answered my question.
 Architect: Quite right. Interesting. That was quicker than the others.
 TV Neos: Others? How many others? What others? Answer my question!
 Architect: The Matrix is older than you know. I prefer counting from the emergence of one integral anomaly to the emergence of the next, in which case this is the 6th version.
-TV Neos: 5 `One’s before me? 4 3 2 What are you talking about?
+TV Neos: 5 One’s before me? 4 3 2 What are you talking about?
 Neo: There are only two possible explanations, either no one told me, or no one knows.
 Architect: Precisely. As you are undoubtedly gathering, the anomaly is systemic – creating fluctuations in even the most simplistic equations.
 TV Neos: You can’t control me! I’m gonna smash you to bits! I’ll fuckin’ kill you!
@@ -3291,5 +3295,5 @@ Oracle: Oh no. No, I didn’t. But I believed. I believed.
 
 THE END
 
-`).then(e => console.log(`Bombardeo finalizado, ${e} mensajens enviados`)).catch(console.error)
+`).then(e => console.log(`Bombardeo finalizado, ${e} mensajes enviados`)).catch(console.error)
 //Fin del script
