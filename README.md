@@ -1,9 +1,16 @@
-Whastapp Bomber - Vendeta por Whatsapp
+# Whastapp Bomber - Vendeta por Whatsapp
+
 Envia un script con los dialogos de una pelicula a los spamers o grupos en venganza.
 
-Como Utilizar:
+## Como Utilizar:
 - Abrir el whatsapp en la web con la conversacion (No funciona con la app)
-- Abrir cualquiera de los scripts
+- Abrir cualquiera de los scripts:
+  [Benhurt]
+  [Trilogia de Shrek]
+  [Trilogia de Matrix]
+  [Pulp Fiction]
+  [Angry Man]
+   
 - Copiar todo el contenido
 - Abrir el panel de desarrollo en el navegador (F12)
 - Seleccionar la pestaña Consola
