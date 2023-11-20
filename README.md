@@ -8,6 +8,7 @@ Para crear el tuyo propio puedes usar este [SCRIPT BASE](https://github.com/borf
 ## Como Utilizar:
 - Abrir el whatsapp en la web con la conversacion (No funciona con la app)
 - Abrir cualquiera de los scripts:
+  
   [Ben-hur](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Ben-Hur.js)
   
   [Trilogia de Lord of the Rings](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Lotr_Trilogy.js)
