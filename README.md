@@ -9,10 +9,15 @@ Para crear el tuyo propio puedes usar este [SCRIPT BASE](https://github.com/borf
 - Abrir el whatsapp en la web con la conversacion (No funciona con la app)
 - Abrir cualquiera de los scripts:
   [Ben-hur](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Ben-Hur.js)
+  
   [Trilogia de Lord of the Rings](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Lotr_Trilogy.js)
+  
   [Trilogia de Matrix](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Matrix_Trilogy.js)
+  
   [Pulp Fiction](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Pump_Fiction.js)
+  
   [Power Rangers The Movie](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-Power_Rangers.js)
+  
    
 - Copiar todo el contenido
 - Abrir el panel de desarrollo en el navegador (F12)
