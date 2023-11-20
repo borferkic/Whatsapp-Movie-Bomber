@@ -2,6 +2,7 @@
 
 Envia un script con los dialogos de una pelicula a los spamers o grupos en venganza.
 Todos los Transcripts de las peliculas estan [AQUI](https://github.com/borferkic/Whatsapp-Movie-Bomber/tree/main/Movies%20Transcripts)
+
 Para crear el tuyo propio puedes usar este [SCRIPT BASE](https://github.com/borferkic/Whatsapp-Movie-Bomber/blob/main/Scripts/WhatsBomber-SinTexto.js)
 
 
