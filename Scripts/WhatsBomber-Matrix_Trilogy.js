@@ -1,3 +1,4 @@
+async function StartBombing(scriptText)
 {
 	const dialogos = scriptText.split(/[\n\t]+/).map(line => line.trim()).filter(line => line);
 	main = document.querySelector("#main"),
