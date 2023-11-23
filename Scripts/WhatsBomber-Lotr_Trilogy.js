@@ -20,7 +20,7 @@ async function StartBombing(scriptText)
 	return dialogos.length;
 }
 //Reemplazar el texto de la linea 26 por el dialogo o mensajes que desees enviar//
-enviarScript(`
+StartBombing(`
 
 The Lord of the Rings: The Fellowship of the Ring
 
